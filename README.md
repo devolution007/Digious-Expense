@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github.com/devolution007/Digious-Expense/blob/master/client/public/static/logo.png?raw=true" alt="Logo" width="80" height="80">
+    <img src="https://github.com/devolution007/Digious-Expense/blob/master/client/public/static/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center">Digious Expense</h2>
@@ -20,7 +20,6 @@
   </p>
 </div>
 
-![SplitApp](https://raw.githubusercontent.com/devolution007/Digious-Expense/master/Screenshots/dashboard-main-transparent.png)
 
 ## MERN Stack Group Expense Splitting Application
 
