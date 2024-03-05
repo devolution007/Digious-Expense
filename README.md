@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github.com/devolution007/Digious-Expense/blob/master/client/public/static/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/devolution007/Digious-Expense/client/public/static/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center">Digious Expense</h2>
