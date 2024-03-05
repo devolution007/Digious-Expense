@@ -1,0 +1,32 @@
+2024-03-04T23:53:48.931Z | ERROR  | DB Connection Fail | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\node_modules\mongodb\lib\connection_string.js:188:17)
+    at new MongoClient (C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+2024-03-04T23:56:16.963Z | ERROR  | DB Connection Fail | MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\node_modules\mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\node_modules\mongodb\lib\connection_string.js:188:17)
+    at new MongoClient (C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\node_modules\mongodb\lib\mongo_client.js:46:63)
+    at C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\lib\connection.js:799:19)
+    at C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\lib\index.js:414:10
+    at C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\Devolution\Desktop\SplitApp\node_modules\mongoose\lib\helpers\promiseOrCallback.js:40:10)
+2024-03-04T23:59:29.332Z | ERROR  | URL : /api/users/v1/register | staus : undefined | message: Operation `users.findOne()` buffering timed out after 10000ms
+2024-03-05T00:01:37.807Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2024-03-05T00:02:05.641Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2024-03-05T00:10:47.969Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2024-03-05T00:45:19.600Z | ERROR  | [Invalid Route] /dashboard/groups/view/65e660fc3b95691d90187501
+2024-03-05T01:11:54.879Z | ERROR  | [Invalid Route] /main.5a45f9b2ef73dcadb546.hot-update.json
+2024-03-05T01:11:54.885Z | ERROR  | [Invalid Route] /main.5a45f9b2ef73dcadb546.hot-update.json
+2024-03-05T01:22:18.089Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2024-03-05T01:22:30.571Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2024-03-05T01:31:40.521Z | ERROR  | [Invalid Route] /favicon.ico
